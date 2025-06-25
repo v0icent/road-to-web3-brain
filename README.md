@@ -15,3 +15,21 @@ To create the brain of Web3—an adaptive, scalable, decentralized ecosystem pow
 ## 📌 Why this repo exists
 
 To show that even without a coding background, it's possible to build world-class Web3 systems—by leveraging AI and learning through doing.
+
+This journey is part of building my professional identity as *Haumea*—a Web3 system architect focused on AI-integrated decentralized infrastructure.
+
+## 🗓️ Milestones
+
+- ✅ [2025-06-24] Created GitHub repo & defined vision
+- ⏳ [Next] Set up AI dev environment (VS Code + Copilot)
+- 🔜 [Planned] Deploy first smart contract to testnet
+
+---
+
+## 🔗 Connect & Follow
+
+- **GitHub**: [@v0icent](https://github.com/v0icent)
+- **Mirror Blog**: In work..
+- **LinkedIn**: In work..
+- **Twitter**: In work..
+- **Email**: [haume4a@gmail.com](mailto:haume4a@gmail.com)
